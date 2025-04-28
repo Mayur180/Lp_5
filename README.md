@@ -1,5 +1,5 @@
-Practical Instructions
-Deep Learning Practical (DL)
+• Practical Instructions
+> Deep Learning Practical (DL)
 Before running any program, make sure to install the required Python libraries using the following command:
 
 • !pip install -r requirements.txt
@@ -7,7 +7,7 @@ This will automatically install all the dependencies listed in the requirements.
 
 After installing the requirements, you can run your Deep Learning program.
 
-High Performance Computing (HPC)
+> High Performance Computing (HPC)
 For running C++ programs using OpenMP (parallel programming):
 
 1. Compilation
