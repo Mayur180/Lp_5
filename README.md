@@ -3,7 +3,8 @@
 Before running any program, make sure to install the required Python libraries using the following command:
 
 • !pip install -r requirements.txt
-This will automatically install all the dependencies listed in the requirements.txt file.
+
+•This will automatically install all the dependencies listed in the requirements.txt file.
 
 After installing the requirements, you can run your Deep Learning program.
 
